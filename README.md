@@ -103,6 +103,10 @@ Rare/Ex items can't be sold to NPCs, and `//cf sell` refuses them.
 
 ConquestFarm is free. If it saved you some clicking and you'd like to say thanks, you can [buy me a coffee on Ko-fi](https://ko-fi.com/skrumpalump). It's completely optional.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## Disclaimer
 
 ConquestFarm sends game packets directly, like SparksFarm and Superwarp. That is against the FFXI Terms of Service. Use it at your own risk.
